@@ -1,6 +1,6 @@
 export const siteConfig = {
-  author: 'Kevin Wong',
-  title: 'Vitesse theme for Astro',
+  author: 'EverLeon',
+  title: '',
   subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
   description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
   image: {
