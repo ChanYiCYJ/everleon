@@ -1,25 +1,19 @@
 export const siteConfig = {
   author: 'EverLeon',
   title: 'EverLeon_Page',
-  subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
+  subtitle: '爱唯写在西元前',
   description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
   image: {
     src: '/hero.jpg',
     alt: 'Website Main Image',
   },
-  email: 'kevinwong865@gmail.com',
+  email: 'reply@everleon.top',
   socialLinks: [
     {
       text: 'GitHub',
-      href: '',
+      href: 'https://github.com/ChanYiCYJ/',
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
-    },
-    {
-      text: 'Twitter',
-      href: '',
-      icon: 'i-simple-icons-x',
-      header: 'i-ri-twitter-x-line',
     },
     {
       text: 'Linkedin',
