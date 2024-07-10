@@ -62,8 +62,6 @@ export const siteConfig = {
         text: 'Bilibili',
         href: '/posts-props',
       },
-      {
-      },
     ],
   },
 }
