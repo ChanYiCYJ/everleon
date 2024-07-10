@@ -63,7 +63,6 @@ export const siteConfig = {
         href: '/posts-props',
       },
       {
-       <a href="https://www.foreverblog.cn/go.html" target="_blank"> <img src="https://img.foreverblog.cn/wormhole_2.gif" alt="" style="width:auto;height:32px;" title="穿梭虫洞-随机访问十年之约友链博客"></a>
       },
     ],
   },
