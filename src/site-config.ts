@@ -15,21 +15,6 @@ export const siteConfig = {
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
-    {
-      text: 'Linkedin',
-      href: '',
-      icon: 'i-simple-icons-linkedin',
-    },
-    {
-      text: 'Instagram',
-      href: '',
-      icon: 'i-simple-icons-instagram',
-    },
-    {
-      text: 'Youtube',
-      href: '',
-      icon: 'i-simple-icons-youtube',
-    },
   ],
   header: {
     logo: {
@@ -74,20 +59,12 @@ export const siteConfig = {
   footer: {
     navLinks: [
       {
-        text: 'Posts Props',
+        text: 'Bilibili',
         href: '/posts-props',
       },
       {
-        text: 'Markdown Style',
-        href: '/md-style',
-      },
-      {
-        text: 'View on Astro',
-        href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
-      },
-      {
-        text: 'GitHub Repository',
-        href: 'https://github.com/kevinwong865/astro-theme-vitesse',
+        text: 'Nothing',
+        href: '#',
       },
     ],
   },
