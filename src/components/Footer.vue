@@ -15,6 +15,7 @@ import { getLinkTarget } from '@/utils/link'
         </a>
         <span v-if="index < siteConfig.footer.navLinks.length - 1" op-70> / </span>
       </template>
+      <a href="https://www.foreverblog.cn/go.html" target="_blank"> <img src="https://img.foreverblog.cn/wormhole_4_tp.gif" alt="" style="width:auto;height:32px;" title="穿梭虫洞-随机访问十年之约友链博客"></a>
     </div>
     <div flex>
       <a nav-link href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
