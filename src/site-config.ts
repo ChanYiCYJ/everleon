@@ -1,6 +1,6 @@
 export const siteConfig = {
   author: 'EverLeon',
-  title: 'EverLeon_Page',
+  title: 'EverLeon',
   subtitle: '爱唯写在西元前',
   description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
   image: {
@@ -60,7 +60,7 @@ export const siteConfig = {
     navLinks: [
       {
         text: 'Bilibili',
-        href: '/posts-props',
+        href: 'https://space.bilibili.com/475906147',
       },
     ],
   },
