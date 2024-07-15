@@ -60,7 +60,7 @@ export const siteConfig = {
     navLinks: [
       {
         text: 'Bilibili',
-        href: '/blog',
+        href: 'https://space.bilibili.com/475906147',
       },
     ],
   },
