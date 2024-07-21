@@ -59,8 +59,6 @@ export const siteConfig = {
   footer: {
     navLinks: [
       {
-        src: '/Unionlogo.svg',
-        href: 'https://space.bilibili.com/475906147',
       },
     ],
   },
