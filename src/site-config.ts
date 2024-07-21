@@ -1,4 +1,4 @@
-export const siteConfig = {
+eexport const siteConfig = {
   author: 'EverLeon',
   title: 'EverLeon',
   subtitle: '爱唯写在西元前',
@@ -59,6 +59,8 @@ export const siteConfig = {
   footer: {
     navLinks: [
       {
+         text:'Travellings'
+         href:'https://www.travellings.cn/go.html'
       },
     ],
   },
