@@ -15,7 +15,7 @@ import { getLinkTarget } from '@/utils/link'
         </a>
         <span v-if="index < siteConfig.footer.navLinks.length - 1" op-70> / </span>
       </template>
-      <a href="https://space.bilibili.com/475906147" target="_blank"> <img src="/Bilibili-logo.svg" alt="" style="width:auto;height:32px;"></a>
+      <a href="https://space.bilibili.com/475906147" target="_blank"> <img src="Bilibili Logo.svg" alt="" style="width:auto;height:32px;"></a>
       <a href="https://www.foreverblog.cn/go.html" target="_blank"> <img src="https://img.foreverblog.cn/wormhole_4_tp.gif" alt="" style="width:auto;height:32px;"></a>
     </div>
     <div flex>
